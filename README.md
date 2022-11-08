@@ -1,5 +1,5 @@
 # *cus_65-keyboard-layout*
 
-*Custom 65% keyboard project*
+*Custom 65% split keyboard project*
 
 ![Keyboard Layout:](keyboard-layout.jpg)
